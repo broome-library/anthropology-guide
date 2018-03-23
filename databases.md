@@ -2,15 +2,15 @@
 
 ## [Academic Search](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
 
-> _Academic SearchTMPremier_contains indexing and abstracts for more than 8,300 journals, with full text for more than 4,500 of those titles. This database contains coverage across the disciplines including biology, chemistry, engineering, physics, psychology, history, religion & theology, and many more.
+> Academic Search Premier contains indexing and abstracts for more than 8,300 journals, with full text for more than 4,500 of those titles. This database contains coverage across the disciplines including biology, chemistry, engineering, physics, psychology, history, religion & theology, and many more.
 
 ## [AnthroSource](http://summit.csuci.edu:2048/login?url=http://anthrosource.onlinelibrary.wiley.com)
 
-> _AnthroSource_offers access to more than 100 years of anthropological knowledge. It contains 32 anthropological publications which includes journals, books, monographs, bulletins and newsletters.
+> AnthroSourceoffers access to more than 100 years of anthropological knowledge. It contains 32 anthropological publications which includes journals, books, monographs, bulletins and newsletters.
 
 ## [Ethnic NewsWatch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14398#sform)
 
-> _Ethnic NewsWatchTM_contains more than 1.8 million full-text newspapers, magazines, and journal articles published by ethnic, minority and native press in the United States. It offers addition perspectives from those put forward by the mainstream press. Coverage is from 1990 to present.
+> Ethnic NewsWatch contains more than 1.8 million full-text newspapers, magazines, and journal articles published by ethnic, minority and native press in the United States. It offers addition perspectives from those put forward by the mainstream press. Coverage is from 1990 to present.
 
 ## [GeoRef](http://summit.csuci.edu:2048/login?url=http://search.proquest.com/georef/index?accountid=7284)
 
@@ -18,11 +18,11 @@
 
 ## [HRAF WorldCultures](http://summit.csuci.edu:2048/login?url=http://ehrafworldcultures.yale.edu/)
 
-> _HRAF WorldCultures_database provides information on cultural and social life from around the world. This full-text cross-cultural database has been organized by cultures and ethnic groups.
+> \_HRAF World Cultures\_ database provides information on cultural and social life from around the world. This full-text cross-cultural database has been organized by cultures and ethnic groups.
 
 ## [JSTOR](http://summit.csuci.edu:2048/login?url=http://www.jstor.org/search)
 
-> _JSTOR_offers a high-quality, interdisciplinary archive to support scholarship and teaching. It includes archives of over one thousand leading academic journals across the humanities, social sciences, and sciences, as well as select monographs and other materials valuable for academic work. JSTOR is a historical archive and does not include items published within the last 3-5 years.
+> \_JSTOR\_ offers a high-quality, interdisciplinary archive to support scholarship and teaching. It includes archives of over one thousand leading academic journals across the humanities, social sciences, and sciences, as well as select monographs and other materials valuable for academic work. JSTOR is a historical archive and does not include items published within the last 3-5 years.
 
 ## [Sage Research Methods](http://summit.csuci.edu:2048/login?url=http://srmo.sagepub.com/)
 
@@ -34,7 +34,7 @@
 
 ## [Annual Reviews](http://summit.csuci.edu:2048/login?url=http://arjournals.annualreviews.org/action/showJournals)
 
-> _Annual Reviews_provides reviews written by leading scientist on 37 disciplines within the Biomedical, Physical, and Social Sciences.
+> \_Annual Reviews\_ provides reviews written by leading scientist on 37 disciplines within the Biomedical, Physical, and Social Sciences.
 
 
 
