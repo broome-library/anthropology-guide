@@ -2,7 +2,7 @@
 
 ## [National Anthropological Archives](http://anthropology.si.edu/archives_collections.html)
 
-_“The National Anthropological Archives and Human Studies Film Archives collect and preserve historical and contemporary anthropological materials that document the world’s cultures and the history of anthropology.”_
+> _“The National Anthropological Archives and Human Studies Film Archives collect and preserve historical and contemporary anthropological materials that document the world’s cultures and the history of anthropology.”_
 
 ## [The eSkeletons Project, University of Texas at Austin](http://www.eskeletons.org/index.html)
 
