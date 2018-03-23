@@ -1,4 +1,5 @@
 {
+    "description": "A JSBL Anthropology Research Guide",
     "structure":{
         "readme":"intro.md"
     },
