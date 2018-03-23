@@ -25,4 +25,4 @@ GitBooks is brought to by the same people that host and maintain GitHub.  As suc
 https://github.com/broome-library/anthropology-guide.git
 
 #### ssh
-git@github.com:broome-library/anthropology-guide.git
+[git@github.com:broome-library/anthropology-guide.git](git@github.com:broome-library/anthropology-guide.git)
