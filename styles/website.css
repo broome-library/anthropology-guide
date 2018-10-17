@@ -42,4 +42,8 @@ a.gitbook-link { /* hide gitbook link */
 ************************/
 .book-header {
     background-color: #d9e8e9;
-    }   
+    }
+    
+.fa.fa-align-justify { /* hamburger menu */
+    color: #cb132a;
+    }
