@@ -12,7 +12,7 @@
 
 > _“Ethnologue: Languages of the World is a comprehensive reference work cataloging all of the world’s known living languages”_
 
-## [EVIA Digital Archive Project](http://www.eviada.org/default.cfm)
+## [EVIA Digital Archive Project](http://eviada.webhost.iu.edu/Scripts/default.cfm)
 
 > _“The EVIA Digital Archive Project is a collaborative endeavor to create a digital archive of ethnographic field video for use by scholars and instructors.”_
 
