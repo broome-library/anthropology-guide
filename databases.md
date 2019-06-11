@@ -30,7 +30,7 @@
 
 ## [Science](http://summit.csuci.edu:2048/login?url=http://www.sciencemag.org)
 
-> Science provides peer reviewed journal articles on originalscientific research.Additionally it offers reviews and analyses on current research and science policies.
+> Science provides peer reviewed journal articles on original scientific research. Additionally it offers reviews and analyses on current research and science policies.
 
 ## [Annual Reviews](http://summit.csuci.edu:2048/login?url=http://arjournals.annualreviews.org/action/showJournals)
 
